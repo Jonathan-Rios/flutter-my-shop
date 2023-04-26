@@ -57,6 +57,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Flutter](https://flutter.dev/)
 - [Dart](https://dart.dev/)
+- [Firebase](https://firebase.google.com/)
 
 
 ## 🚀 Como executar
