@@ -17,16 +17,16 @@
 
 <br>
 
-<h3 align="center">Imagem prévia da aplicação: criando usuário e comprando</h3>
+<h3 align="center">Prévia: Criando usuário e comprando</h3>
 
 <div align="center">
-  <img src=".github/project-preview_01.gif?style=flat" alt="Cover" width="350" height="650">
+  <img src=".github/project_preview_01.gif?style=flat" alt="Cover" width="350" height="650">
 </div>
 
-<h3 align="center">Imagem prévia da aplicação: acessando com usuário e adicionando um novo produto</h3>
+<h3 align="center">Prévia: Acessando e adicionando um novo produto</h3>
 
 <div align="center">
-  <img src=".github/project-preview_02.gif?style=flat" alt="Cover" width="350" height="650">
+  <img src=".github/project_preview_02.gif?style=flat" alt="Cover" width="350" height="650">
 </div>
 
 
