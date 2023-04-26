@@ -1,4 +1,4 @@
-<h1 align="center">Flutter - My Meals</h1>
+<h1 align="center">Flutter - My Shop</h1>
 
 <p align="center">
 
